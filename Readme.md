@@ -1,7 +1,5 @@
 # Backstage docker
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 - [Backstage.io](https://backstage.io)
 - [Getting Started](https://backstage.io/docs/getting-started/)
 - [Running the Backstage service catalog with Docker Compose](https://roadie.io/blog/backstage-docker-service-catalog/)
